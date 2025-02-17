@@ -8,4 +8,9 @@ public class Test1 {
   private int sum (int a, int b) {
       return a + b; 
   }
+
+  // this method multiplies two numbers
+  private int mult(int a, int b) {
+    return a*b;
+  }
 }
