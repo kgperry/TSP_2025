@@ -4,4 +4,8 @@ public class Test1 {
       // This is the main method
   }
 
+  // this method returns the sum of two numbers
+  private int sum (int a, int b) {
+      return a + b; 
+  }
 }
