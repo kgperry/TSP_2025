@@ -11,7 +11,7 @@ public class Test1 {
 
   // this method multiplies two numbers
   private int mult(int a, int b) {
-    return a*b;
+    return a * b;
   }
 
   // this method returns the difference between 2 numbers
