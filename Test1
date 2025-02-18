@@ -13,4 +13,10 @@ public class Test1 {
   private int mult(int a, int b) {
     return a*b;
   }
+
+  // this method returns the difference between 2 numbers
+  private int diff(int a, int b) {
+    return a - b;
+  }
+
 }
